@@ -6,7 +6,6 @@ import lombok.Data;
 @Data
 @Entity
 public class Console extends Computer {
-    private String type;
     private String teraflops;
 
     @Override

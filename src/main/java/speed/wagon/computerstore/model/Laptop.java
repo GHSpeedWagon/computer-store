@@ -6,7 +6,6 @@ import lombok.Data;
 @Data
 @Entity
 public class Laptop extends Computer {
-    private String type;
     private String motherBoard;
     private String monitor;
     private String batterySize;
@@ -19,7 +18,6 @@ public class Laptop extends Computer {
                 + ", gpu='" + gpu + '\''
                 + ", ram='" + ram + '\''
                 + ", memory='" + memory + '\''
-                + "type='" + type + '\''
                 + ", motherBoard='" + motherBoard + '\''
                 + ", monitor='" + monitor + '\''
                 + ", batterySize='" + batterySize + '\''
