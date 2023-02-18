@@ -1,7 +1,7 @@
 # 🖥computer-store🖥
 ___
 ## 📄Short description
-___Computer-store-app___ - it is a java web application that use Hibernate and Spring boot frameworks.
+___Computer-store-app___ - it is a java web application that use Hibernate and Spring boot frameworks according to OOP and SOLID principles.
 ___
 ### 📑Full Description📑
 Application can accept consoles, personal computer, laptops and save it to h2 in memory db.
